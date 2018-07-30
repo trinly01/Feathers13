@@ -4,12 +4,12 @@
 
 ## Installation
 ```
-yarn install
+npm install
 ```
 ## Usage
 
 ```
-quasar dev
+npm start
 ```
 
 ## License
